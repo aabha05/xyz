@@ -8,6 +8,7 @@ var ball,ground;
 var stand1,stand2;
 var slingShot;
 var rock_img;
+var wow;
 
 function preload(){
   rock_img=loadImage("rock.png");
